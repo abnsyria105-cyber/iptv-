@@ -1,7 +1,4 @@
 #EXTM3U
-############################
-# 📺 قنوات عربية مجانية
-############################
 #EXTINF:-1 group-title="Arabic",Al Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 #EXTINF:-1 group-title="Arabic",Al Jazeera Mubasher
@@ -12,36 +9,24 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 #EXTINF:-1 group-title="Arabic",DW Arabic
 https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-p.m3u8
-############################
-# 🌍 أخبار عالمية
-############################
 #EXTINF:-1 group-title="News",BBC World News
 https://vs-cmaf-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_world_news/pc_hd_abr_v2.m3u8
 #EXTINF:-1 group-title="News",France 24 English
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 group-title="News",NHK World
 https://nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458/nhkwlive-xjp/index.m3u8
-############################
-# ⚽ رياضة مجانية
-############################
 #EXTINF:-1 group-title="Sports",FIFA+
 https://ott-linear.fifa.com/linear/hls/primary/master.m3u8
 #EXTINF:-1 group-title="Sports",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="Sports",Olympic Channel
 https://olymlive.akamaized.net/linear/ch1/master.m3u8
-############################
-# 🎬 أفلام ومسلسلات مجانية
-############################
 #EXTINF:-1 group-title="Movies",Pluto TV Movies
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c12fe491c932b67bd8e3d4a/master.m3u8
 #EXTINF:-1 group-title="Movies",Pluto TV Action
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7791b8372da90007fd45e3/master.m3u8
 #EXTINF:-1 group-title="Movies",Rakuten TV Free
 https://rakuten-tv-live.amagi.tv/hls/amagi_hls_data_rakuten-tv-rakutentvcz/CDN/playlist.m3u8
-############################
-# 📚 وثائقي
-############################
 #EXTINF:-1 group-title="Documentary",NASA TV
 https://ntv1.movetv.com/live/ntv1/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",RT Documentary
